@@ -1,1 +1,1 @@
-Titanic Data Visualization in Tableaue software
+Titanic Data Visualization in Tableaue statistical software
